@@ -64,24 +64,6 @@
   .projet a:hover {
     background-color: #a27efb;
   }
-  
-  
-  footer {
-    background: #a27efb;
-    color: white;
-    padding: 20px;
-    margin-top: 60px;
-    font-size: 0.9em;
-  }
-  
-  footer a {
-    color: #ffe4ff;
-    text-decoration: none;
-  }
-  
-  footer a:hover {
-    text-decoration: underline;
-  }
   #btnInfos {
     margin-top: 20px;
     padding: 12px 25px;
